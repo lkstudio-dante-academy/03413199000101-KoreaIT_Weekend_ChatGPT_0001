@@ -1,2 +1,2 @@
-# 03410291000101-KoreaIT_Weekend_ChatGPT_0001
-코리어 IT 아카데미 주말반 ChatGPT 과정 - 2025.05 프로젝트
+# 03413199000101-KoreaIT_Weekend_ChatGPT_0001
+코리아 IT 아카데미 주말 일반 ChatGPT 기초 - 2025.05 프로젝트
